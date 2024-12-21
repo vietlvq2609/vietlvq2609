@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Victor Tran  
+# Hi there! 👋 I'm Victor (Le Vu Quoc Viet)  
 🚀 **Aspiring Fullstack Developer | DevOps Enthusiast**  
 
 🌟 Welcome to my GitHub profile! I'm passionate about crafting innovative solutions, mastering new technologies, and continuously improving my skills in both frontend and backend development.  
@@ -6,8 +6,8 @@
 ---
 
 ## 🔧 **Technologies & Tools**  
-- **Languages:** JavaScript (React, Node.js), PHP (Laravel), Python  
-- **Frontend:** React, Vue.js, HTML, CSS, TailwindCSS  
+- **Languages:** JavaScript (React, Node.js), PHP (Laravel, Wordpress), Python
+- **Frontend:** React, React Native, Next, HTML, CSS, TailwindCSS  
 - **Backend:** Node.js, Laravel, NestJS, FastAPI  
 - **DevOps:** Docker, Nginx  
 - **Databases:** MySQL, MongoDB  
@@ -16,8 +16,8 @@
 ---
 
 ## 📈 **My Stats**  
-![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vietlvq2609&show_icons=true&theme=radical)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vietlvq2609&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -31,18 +31,16 @@ Check out some of my notable projects:
 ---
 
 ## 📬 **Connect with Me**  
-- **Email:** [your-email@example.com](mailto:your-email@example.com)  
-- **LinkedIn:** [Victor Tran](https://www.linkedin.com/in/your-linkedin)  
-- **LeetCode:** [Victor's LeetCode Profile](https://leetcode.com/your-profile/)  
-- **Portfolio:** [victor-portfolio.com](https://victor-portfolio.com)  
-- **Twitter:** [@your-twitter](https://twitter.com/your-twitter)  
+- **Email:** [vietlvq2609@gmail.com](mailto:vietlvq2609@gmail.com)  
+- **LinkedIn:** [Viet Le](https://www.linkedin.com/in/vietle2609)  
+- **LeetCode:** [Victor's LeetCode Profile](https://leetcode.com/u/vietlvq2609)
 
 ---
 
 ## 🎯 **Fun Facts About Me**  
 - I’m currently learning **NestJS** and **Next.js**.  
 - I love studying and working in cozy cafes ☕.  
-- My dream is to become a **Technical Architect** or **Tech Lead**.  
+- My dream is to become a **Technical Architect** and **Content Creator**.  
 
 ---
 

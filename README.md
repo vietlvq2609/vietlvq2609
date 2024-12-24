@@ -6,12 +6,14 @@
 ---
 
 ## 🔧 **Technologies & Tools**  
-- **Languages:** JavaScript (React, Node.js), PHP (Laravel, Wordpress), Python
+- **Languages:** JavaScript, Typescript, Python, PHP
 - **Frontend:** React, React Native, Next, HTML, CSS, TailwindCSS  
-- **Backend:** Node.js, Laravel, NestJS, FastAPI  
-- **DevOps:** Docker, Nginx  
+- **Backend:** Node.js, Laravel, NestJS, FastAPI
+- **DevOps:** AWS, Linux, Docker, Nginx, GitHub Actions
 - **Databases:** MySQL, MongoDB  
-- **Other Skills:** API Development, Responsive Design, Agile Methodologies  
+- **Version Control & Collaboration:** GIT, GitHub, Bitbucket, Jira, Backlog
+- **CMS & Other Tools:** WordPress, Microsoft Office Suite (Word, Excel, PowerPoint)
+- **Other Skills:** API Development, Responsive Design, Agile Methodologies
 
 ---
 
@@ -21,26 +23,22 @@
 
 ---
 
-## 🌟 **Projects**  
-Check out some of my notable projects:  
-- [**HR Management System**](https://github.com/example/hr-management)  
-  A full-stack web app for task management and productivity.  
-- [**Survey Game Platform**](https://github.com/example/survey-game)  
-  Built using FastAPI and React to create an engaging user experience.  
+## 🌟 **Resumé**  
+Check out my resumé here:  [**Le Vu Quoc Viet's Resumé**](https://drive.google.com/file/d/1z9pWiVRrDkIdfZ_LXn3UgW_6YdtKWIJm/view?usp=sharing)  
 
 ---
 
 ## 📬 **Connect with Me**  
 - **Email:** [vietlvq2609@gmail.com](mailto:vietlvq2609@gmail.com)  
 - **LinkedIn:** [Viet Le](https://www.linkedin.com/in/vietle2609)  
-- **LeetCode:** [Victor's LeetCode Profile](https://leetcode.com/u/vietlvq2609)
+- **LeetCode:** [Victor's Profile](https://leetcode.com/u/vietlvq2609)
 
 ---
 
 ## 🎯 **Fun Facts About Me**  
 - I’m currently learning **NestJS** and **Next.js**.  
 - I love studying and working in cozy cafes ☕.  
-- My dream is to become a **Technical Architect** and **Content Creator**.  
+- My dream is to become a **Content Creator**.  
 
 ---
 

@@ -8,12 +8,12 @@
 ## 🔧 **Technologies & Tools**  
 - **Languages:** JavaScript, Typescript, Python, PHP
 - **Frontend:** React, React Native, Next, HTML, CSS, TailwindCSS  
-- **Backend:** Node.js, Laravel, NestJS, FastAPI
-- **DevOps:** AWS, Linux, Docker, Nginx, GitHub Actions
+- **Backend:** Node.js, Laravel, FastAPI
+- **DevOps:** AWS, Linux, Docker, GitHub Actions
 - **Databases:** MySQL, MongoDB  
 - **Version Control & Collaboration:** GIT, GitHub, Bitbucket, Jira, Backlog
 - **CMS & Other Tools:** WordPress, Microsoft Office Suite (Word, Excel, PowerPoint)
-- **Other Skills:** API Development, Responsive Design, Agile Methodologies
+- **Other Skills:** API Development, Responsive Design
 
 ---
 

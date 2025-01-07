@@ -35,11 +35,4 @@ Check out my resumé here:  [**Le Vu Quoc Viet's Resumé**](https://drive.google
 
 ---
 
-## 🎯 **Fun Facts About Me**  
-- I’m currently learning **NestJS** and **Next.js**.  
-- I love studying and working in cozy cafes ☕.  
-- My dream is to become a **Content Creator**.  
-
----
-
 **Thanks for visiting! Let's build something amazing together.** 🌟  

@@ -1,34 +1,68 @@
-# Hi, I'm Viet (Victor) 👋
+<div align="center">
 
-Fullstack Software Engineer with 3+ years of experience building SaaS platforms, internal systems, and business applications.
+```text
+  /\_/\          vietlvq2609@system-lab
+ ( o.o )         ----------------------
+  > ^ <          Role: Software Engineer
+                 Location: Ho Chi Minh City, VN
+                 Core: Node.js, TypeScript, PHP
+                 OS Focus: Linux / POSIX Basics
+                 Shell: zsh / bash
+                 Status: 🟢 Systems Nominal
+```
 
-I specialize in TypeScript-based development across the stack, with experience in React, NestJS, PostgreSQL, and modern web architectures. My focus is not only on delivering features but also on building maintainable systems that can evolve with business needs.
+</div>
 
-I actively leverage AI-assisted development workflows to accelerate implementation, debugging, testing, and refactoring while maintaining engineering quality and ownership of technical decisions.
+<br/>
 
-### What I Work With
+`vietle@system-lab:~$ cat /home/dev/bio.md`
 
-* Frontend: React, Redux, Zustand, TanStack Query
-* Backend: NestJS, Node.js, REST APIs
-* Database: PostgreSQL, MySQL, Elasticsearch
-* Infrastructure: Docker, GitHub Actions, CI/CD
-* Engineering: Clean Architecture, DDD, Testing, Code Reviews
-* AI-Assisted Development: GitHub Copilot, Claude, AI-powered development workflows
+> **System Architecture & Node.js Sandbox**
+> Welcome to my GitHub! I treat this space as an open-source research laboratory. As a Software Engineer, I focus on building robust **Node.js / TypeScript** and **PHP** applications. Currently, I am diving deep into low-level **Linux system concepts**, OS basics, process management, and asynchronous I/O models to bridge the gap between high-level logic and kernel-level execution.
 
-### What Interests Me
+<br/>
 
-* Building products end-to-end
-* Software architecture and system design
-* AI-native software development
-* Developer productivity and engineering workflows
-* Turning business problems into scalable software solutions
+`vietle@system-lab:~$ ps aux --sort=-%cpu | head -n 5`
 
-### Connect With Me
+```text
+USER       PID  %CPU %MEM  COMMAND
+root       101  85.0  4.2  node --env-file=.env dist/runtime.js
+root       102  60.0  2.1  tsc --watch --project tsconfig.json
+root       103  30.0  1.0  php-fpm: pool www
+root       104  15.0  0.8  htop --highlight-delay=5
+```
 
-* Email: [vietlvq2609@gmail.com](mailto:vietlvq2609@gmail.com)
-* LinkedIn: [linkedin.com/in/vietle2609](https://www.linkedin.com/in/vietle2609/)
-* LeetCode: [leetcode.com/u/vietlvq2609](https://leetcode.com/u/vietlvq2609/)
+<br/>
 
----
+`vietle@system-lab:~$ ls -la ~/experiments`
 
-"Build software that creates value, not just features."
+| Permissions | Owner | Repository | Stack | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| `drwxr-xr-x` | `root` | [**your-node-project-name**](https://github.com/vietlvq2609/repo-link) | Node.js / TS | 🧪 Active |
+| `drwxr-xr-x` | `root` | [**linux-basics-study**](https://github.com/vietlvq2609/repo-link) | Bash / Linux OS | 🔬 Prototype |
+| `drwxr-xr-x` | `root` | [**your-php-backend**](https://github.com/vietlvq2609/repo-link) | PHP / Typescript | ✅ Stabilized |
+
+<br/>
+
+`vietle@system-lab:~$ cat /etc/crontab`
+
+```bash
+# Learning Schedule & Current Research Focus
+0 0 * * *   root    echo "Mastering Node.js Memory Management & Buffer Allocation"
+0 8 * * *   root    echo "Exploring Linux IPC mechanisms, permissions & file descriptors"
+```
+
+<br/>
+
+`vietle@system-lab:~$ env | grep CONTACT`
+
+```bash
+CONTACT_LINKEDIN="https://www.linkedin.com/in/vietle2609/"
+CONTACT_GITHUB="https://github.com/vietlvq2609"
+CONTACT_LOCATION="Ho Chi Minh City, Viet Nam"
+```
+
+<br/>
+
+`vietle@system-lab:~$ ./scripts/connect.sh`
+> ⚡ If you want to talk about tech, system architecture, or just share some terminal tricks, feel free to execute the `$CONTACT_LINKEDIN` variable!

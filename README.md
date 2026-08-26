@@ -37,3 +37,5 @@ I simply love building stuff and figuring things out on my own.
 
 * <a href="https://github.com/vietlvq2609/file-processing-platform" target="_blank"><strong>file-processing-platform</strong></a> — A production-grade, full-stack file processing platform demonstrating modern engineering patterns across a React frontend, Fastify API, background worker, and multi-container Docker infrastructure.
 * <a href="https://github.com/vietlvq2609/chatapp-client" target="_blank"><strong>chatapp-client</strong></a> — A real-time chat web application built with React and TypeScript. It connects to a backend REST API and WebSocket server to deliver instant messaging with a clean, responsive Material UI interface.
+* <a href="https://github.com/vietlvq2609/chatapp-api" target="_blank"><strong>chatapp-api</strong></a> — Real-time chat application backend built with Spring Boot & WebSocket
+

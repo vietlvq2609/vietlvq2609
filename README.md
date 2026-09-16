@@ -35,7 +35,7 @@ I simply love building stuff and figuring things out on my own.
 
 ### 🚀 Highlight Projects
 
-* <a href="https://github.com/vietlvq2609/portfolio" target="_blank"><strong>portfolio</strong></a> — My personal portfolio website written in Astro ([Live Demo](https://viktorlab.io.vn)).
+* <a href="https://github.com/vietlvq2609/portfolio" target="_blank"><strong>portfolio</strong></a> — My personal portfolio and technical journal ([Live Demo](https://viktorlab.io.vn)).
 * <a href="https://github.com/vietlvq2609/file-processing-platform" target="_blank"><strong>file-processing-platform</strong></a> — A production-grade, full-stack file processing platform demonstrating modern engineering patterns across a React frontend, Fastify API, background worker, and multi-container Docker infrastructure ([Live Demo](https://file-processing-platform.viktorlab.io.vn)).
 
 
